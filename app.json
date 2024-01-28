@@ -1,0 +1,26 @@
+{
+	"name": "Million Winner",
+	"description": "بوت لعبة من سيربح المليون",
+	"logo": "https://telegra.ph/file/bd0fde82d09f7681afc99.jpg",
+	"keywords": [
+		"telegram",
+		"bot",
+		"python",
+		"telethon"
+	],
+	"repository": "https://github.com/modymesourceze/AL-QURAN",
+    "env": {
+        "ELHYBA": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""            
+	   }
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
+
+
+
